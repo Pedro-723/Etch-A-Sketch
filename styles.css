@@ -1,0 +1,34 @@
+/* General */
+
+header {
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.board-btn {
+    background-color: white;
+    height: 50px;
+    width: 50px;
+    border: 1px solid black;
+}
+
+.active {
+    background-color: gray;
+    height: 50px;
+    width: 50px;
+    border: 1px solid black;
+}
+
+.notActive {
+    background-color: white;
+}
+
+.container {
+    border: 1px solid black;
+    margin: 20px auto;
+    width: 520px;
+    height: 520px;
+    display: flex;
+    flex-wrap: wrap;
+}
