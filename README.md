@@ -1,2 +1,2 @@
 # Etch-A-Sketch
-Etch-a-sketch project
+First version of a Etch-a-sketch project
